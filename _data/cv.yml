@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: José Giral Barajas
     - name: Date of Birth
-      value: 14th March 1879
+      value: 11th April 1999
     - name: Languages
-      value: English, German
+      value: Spanish, English, Japanese
 
 - title: Education
   type: time_table
