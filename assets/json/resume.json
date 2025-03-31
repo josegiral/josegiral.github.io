@@ -17,14 +17,36 @@
   },
   "education": [
     {
+      "institution": "Imperial College London",
+      "location": "London, UK",
+      "url": "https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/",
+      "area": "Applied mathematics",
+      "studyType": "PhD",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "National Autonomous University of Mexico (UNAM)",
+      "location": "Mexico City, Mexico",
+      "url": "https://matematicas.posgrado.unam.mx/",
+      "area": "Mathematics",
+      "studyType": "MSc",
+      "startDate": "2022-08-01",
+      "endDate": "2024-07-01",
+      "score": "9.88/10",
+      "courses": ""
+    },
+    {
       "institution": "National Autonomous University of Mexico (UNAM)",
       "location": "Mexico City, Mexico",
       "url": "https://www.fciencias.unam.mx/",
-      "area": "Mathematics",
-      "studyType": "M.Sc.",
+      "area": "Applied mathematics",
+      "studyType": "BSc",
       "startDate": "2017-08-01",
       "endDate": "2021-08-01",
-      "score": "9.88/10",
+      "score": "9.9/10",
       "courses": ""
     }
   ],
@@ -52,7 +74,7 @@
   ],
   "awards": [
     {
-      "studyType": "Roth Scholarship for Ph.D. study",
+      "studyType": "Roth Scholarship for PhD study",
       "location": "London, UK",
       "startDate": "2024-10-01",
       "endDate": "2029-04-01",
@@ -61,7 +83,7 @@
       "courses": "Graduate Scholarship for PhD Degree."
     },
     {
-      "studyType": "Graduate Scholarship for M.Sc. Degree",
+      "studyType": "Graduate Scholarship for MSc Degree",
       "location": "Mexico City, Mexico",
       "startDate": "2022-08-01",
       "endDate": "2024-07-31",
@@ -73,6 +95,7 @@
       "studyType": "Gabino Barreda medal",
       "location": "Mexico City, Mexico",
       "startDate": "2022-07-22",
+      "endDate": "2022-07-22",
       "awarder": "National Autonomous University of Mexico (UNAM)",
       "url": "https://www.fciencias.unam.mx/servicios-y-tramites/avisos-estudiantes-2022/listado-definitivo-candidatos-gabino-barreda-2017-21-1-y-2018-21-2",
       "courses": "First-class honours, ranked top of the class of 139 students."
