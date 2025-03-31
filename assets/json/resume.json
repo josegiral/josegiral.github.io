@@ -3,24 +3,17 @@
     "name": "José Giral Barajas",
     "label": "Mathematics PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "j.giral-barajas24@imperial.ac.uk",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "Imperial College London",
+      "postalCode": "SW7 2AZ",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "South Kensington"
+    }
   },
   "work": [
     {
@@ -48,13 +41,30 @@
   ],
   "awards": [
     {
-      "title": "Graduate Scholarship for MSc Degree",
+      "studyType": "Roth Scholarship for PhD study",
+      "location": "London, UK",
+      "startDate": "2024-10-01",
+      "endDate": "2029-04-01",
+      "institution": "Department of Mathematics, Imperial College London",
+      "url": "https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/prospective-students/phd-funding-opportunities/",
+      "courses": "Graduate Scholarship for PhD Degree."
+    },
+    {
+      "studyType": "Graduate Scholarship for MSc Degree",
       "location": "Mexico City, Mexico",
-      "startDate": "01-08-2022",
-      "endDate": "31-07-2024",
-      "awarder": "National Council of Humanities, Sciences and Technologies (CONAHCyT)",
+      "startDate": "2022-08-01",
+      "endDate": "2024-07-31",
+      "institution": "National Council of Humanities, Sciences and Technologies (CONAHCyT)",
       "url": "https://secihti.mx/secihti/",
-      "summary": "Graduate Scholarship for Master Degree."
+      "courses": "Graduate Scholarship for Master Degree."
+    },
+    {
+      "studyType": "Gabino Barreda medal",
+      "location": "Mexico City, Mexico",
+      "Date": "2022-07-22",
+      "awarder": "National Autonomous University of Mexico (UNAM)",
+      "url": "https://www.fciencias.unam.mx/servicios-y-tramites/avisos-estudiantes-2022/listado-definitivo-candidatos-gabino-barreda-2017-21-1-y-2018-21-2",
+      "courses": "First-class honours, ranked top of the class of 139 students."
     }
   ],
   "languages": [
