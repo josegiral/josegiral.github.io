@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
+subtitle: 
     <p>Mathematics Research PhD student</p>
     <p>Email: j.giral-barajas24@imperial.ac.uk</p>
 
