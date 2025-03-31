@@ -2,16 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
-    <p>Mathematics Research PhD student</p>
-    <p>Email: j.giral-barajas24@imperial.ac.uk</p>
+subtitle: PhD student at <a href='https://www.imperial.ac.uk/mathematics/'>Imperial College London</a>
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p><a href="https://www.imperial.ac.uk/mathematics/">Department of Mathematics</a></p>
+    <p>Department of Mathematics</p>
     <p>Imperial College London</p>
     <p>South Kensington</p>
     <p>London SW7 2AZ</p>
