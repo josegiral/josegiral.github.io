@@ -63,6 +63,24 @@
   ],
   "teaching": [
     {
+      "name": "Faculty of natural sciences, Imperial College London",
+      "position": "Graduate teaching Assistant",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-03-31",
+      "summary": "Weekly problem classes and marking",
+      "highlights": ["Probability and statistics module"]
+    },
+    {
+      "name": "Faculty of science, National Autonomous University of Mexico (UNAM)",
+      "position": "Graduate teaching Assistant",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2024-07-01",
+      "summary": "Teaching classes twice a week, developing python programming exercises and marking",
+      "highlights": ["Probability module", "Stochastic Processes module"]
+    },
+    {
       "name": "Faculty of science, National Autonomous University of Mexico (UNAM)",
       "position": "Teaching Assistant",
       "url": "",
