@@ -23,7 +23,7 @@
       "studyType": "Ph.D. Mathematics",
       "startDate": "2024-10-01",
       "endDate": "",
-      "advisor": "Professor Paul Bressloff",
+      "advisor": "Professor Paul C Bressloff",
       "advisorUrl": "https://bressloff.github.io/index.html",
       "area": "",
       "score": ""
@@ -64,7 +64,7 @@
       "startDate": "2021-12-01",
       "endDate": "2022-07-31",
       "summary": "My main projects were managing the first credit score model of the company in SAS, developing a machine learning model for product recommendation in Python, and creating a database for the transition to the company's new internet plans. Besides that, I constantly worked with AWS, Redshift, and Python to create diverse databases solicited by different areas of the company.",
-      "highlights": ["Business Intelligence"]
+      "highlights": ""
     }
   ],
   "teaching": [
@@ -104,7 +104,7 @@
       "endDate": "2029-04-01",
       "institution": "Department of Mathematics, Imperial College London",
       "url": "https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/prospective-students/phd-funding-opportunities/",
-      "courses": "Graduate Scholarship for PhD Degree."
+      "courses": ""
     },
     {
       "studyType": "Graduate Scholarship for MSc Degree",
@@ -113,14 +113,14 @@
       "endDate": "2024-07-31",
       "institution": "National Council of Humanities, Sciences and Technologies (CONAHCyT)",
       "url": "https://secihti.mx/secihti/",
-      "courses": "Graduate Scholarship for Master Degree."
+      "courses": ""
     },
     {
       "studyType": "Gabino Barreda medal",
       "location": "Mexico City, Mexico",
       "startDate": "2022-07-22",
       "endDate": "2022-07-22",
-      "awarder": "National Autonomous University of Mexico (UNAM)",
+      "institution": "National Autonomous University of Mexico (UNAM)",
       "url": "https://www.fciencias.unam.mx/servicios-y-tramites/avisos-estudiantes-2022/listado-definitivo-candidatos-gabino-barreda-2017-21-1-y-2018-21-2",
       "courses": "First-class honours, ranked top of the class of 139 students."
     }
