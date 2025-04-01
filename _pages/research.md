@@ -17,7 +17,12 @@ nav_order: 1
       <li>We studied the existence and behvaiour of steady-state statistics in function of the search process configurations.</li>
       <li>Current projects include the following: (a) Modeling the accumulation of target cell resources as a G/M/c queue in high-dimension domains. (b) Study the the idle periods under heavy traffic approximations, linked with the configuration of the search process.</li>
     </ul>
-    <img src="assets/img/SearchAndCaptureGMC.png" alt="Search-and-capture models with sequential consumption">
+    <div class="row mt-3">
+      {% include figure.liquid loading="eager" path="assets/img/SearchAndCaptureGMC.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+      Accumulation and sequential consumption of resources in a single target with sequential consumption after several rounds of search-and-capture processes.
+    </div>
   </article>
 </div>
 
@@ -33,6 +38,11 @@ nav_order: 1
       <li>We introduced an extension of the stochastic epidemiological model to consider heterogeneous populations. The central assumption is that individuals with similar profiles will have similar trajectories relative to infection.</li>
       <li>The model allows estimation of realistic Case Fatality Ratios (CFRs) and extends the basic reproductive number.</li>
     </ul>
-    <img src="assets/img/EpidemiologyModelingScheme.png" alt="Epidemiology modeling schemes">
+    <div class="row mt-3">
+      {% include figure.liquid loading="eager" path="assets/img/EpidemiologyModelingScheme.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+      Schemes of different dynamical scenarios considered by the model.
+    </div>
   </article>
 </div>
