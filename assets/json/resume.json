@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "general information": {
     "name": "José Giral Barajas",
     "label": "Mathematics PhD Student",
     "email": "j.giral-barajas24@imperial.ac.uk",
@@ -20,7 +20,7 @@
       "institution": "Imperial College London",
       "location": "London, UK",
       "url": "https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/",
-      "studyType": "Ph.D. Applied mathematics",
+      "studyType": "Ph.D. Mathematics",
       "startDate": "2024-10-01",
       "endDate": "",
       "advisor": "Professor Paul Bressloff",
