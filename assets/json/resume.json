@@ -38,7 +38,9 @@
       "endDate": "2024-07-01",
       "score": "9.88/10",
       "advisor": "Dr. Sergio I. López Ortega",
-      "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/"
+      "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/",
+      "thesisPDF": "GiralBarajas-ThesisMSc.pdf",
+      "thesis": "Modelo epidemiológico probabilista con microdinámicas y tiempo reverso (Spanish)"
     },
     {
       "institution": "Universidad Nacional Autónoma de México (UNAM)",
@@ -51,8 +53,8 @@
       "score": "9.9/10",
       "advisor": "Dr. Sergio I. López Ortega",
       "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/",
-      "thesisPDF": "GiralBarajas-ThesisBSc",
-      "thesis": "Modelo epidemiológico probabilista con microdinámicas y tiempo reverso"
+      "thesisPDF": "GiralBarajas-ThesisBSc.pdf",
+      "thesis": "Modelo epidemiológico probabilista con microdinámicas y tiempo reverso (Spanish)"
     }
   ],
   "work": [

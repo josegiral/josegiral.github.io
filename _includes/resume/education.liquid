@@ -42,6 +42,11 @@
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
             Advisor: <a href="{{ content.advisorUrl }}">{{ content.advisor }}</a>
           </h6>
+          {% if content.thesisPDF and content.thesis != '' %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+              Thesis: <a href="{{ content.thesisPDF | prepend: 'assets/pdf/' | relative_url }}">{{ content.thesis }}</a>
+            </h6>
+          {% endif %}
           <ul class="items">
             {% for item in content.courses %}
               <li>
