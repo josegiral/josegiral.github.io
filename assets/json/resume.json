@@ -32,7 +32,6 @@
       "institution": "Universidad Nacional Autónoma de México (UNAM)",
       "location": "Mexico City, Mexico",
       "url": "https://matematicas.posgrado.unam.mx/",
-      "area": "Mathematics",
       "studyType": "M.Sc. Mathematics",
       "startDate": "2022-08-01",
       "endDate": "2024-07-01",
@@ -40,14 +39,14 @@
       "advisor": "Dr. Sergio I. López Ortega",
       "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/",
       "thesisPDF": "GiralBarajas-ThesisMSc.pdf",
-      "thesis": "Modelo epidemiológico probabilista con microdinámicas y tiempo reverso (Spanish)"
+      "thesis": "Probabilistic epidemiological model for heterogeneous populations",
+      "courses": ["Qualifying exams in partial differential equations, probabiliy and stochastic processes and graph theory."]
     },
     {
       "institution": "Universidad Nacional Autónoma de México (UNAM)",
       "location": "Mexico City, Mexico",
       "url": "https://www.fciencias.unam.mx/",
-      "area": "Applied mathematics",
-      "studyType": "BSc",
+      "studyType": "B.Sc. Applied mathematics",
       "startDate": "2017-08-01",
       "endDate": "2021-08-01",
       "score": "9.9/10",
