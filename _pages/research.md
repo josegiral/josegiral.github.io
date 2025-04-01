@@ -18,7 +18,13 @@ nav_order: 1
       <li>Current projects include the following: (a) Modeling the accumulation of target cell resources as a G/M/c queue in high-dimension domains. (b) Study the the idle periods under heavy traffic approximations, linked with the configuration of the search process.</li>
     </ul>
     <div class="row mt-3">
-      {% include figure.liquid loading="eager" path="assets/img/SearchAndCaptureGMC.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      <div class="col-sm mt-3 mt-md-0">
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SearchAndCaptureGMC.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+      </div>
     </div>
     <div class="caption">
       Accumulation and sequential consumption of resources in a single target with sequential consumption after several rounds of search-and-capture processes.
@@ -39,7 +45,13 @@ nav_order: 1
       <li>The model allows estimation of realistic Case Fatality Ratios (CFRs) and extends the basic reproductive number.</li>
     </ul>
     <div class="row mt-3">
-      {% include figure.liquid loading="eager" path="assets/img/EpidemiologyModelingScheme.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      <div class="col-sm mt-3 mt-md-0">
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/EpidemiologyModelingScheme.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+      </div>
     </div>
     <div class="caption">
       Schemes of different dynamical scenarios considered by the model.
