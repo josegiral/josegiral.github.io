@@ -29,11 +29,11 @@
       "score": ""
     },
     {
-      "institution": "National Autonomous University of Mexico (UNAM)",
+      "institution": "Universidad Nacional Autónoma de México (UNAM)",
       "location": "Mexico City, Mexico",
       "url": "https://matematicas.posgrado.unam.mx/",
       "area": "Mathematics",
-      "studyType": "MSc",
+      "studyType": "M.Sc. Mathematics",
       "startDate": "2022-08-01",
       "endDate": "2024-07-01",
       "score": "9.88/10",
@@ -41,7 +41,7 @@
       "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/"
     },
     {
-      "institution": "National Autonomous University of Mexico (UNAM)",
+      "institution": "Universidad Nacional Autónoma de México (UNAM)",
       "location": "Mexico City, Mexico",
       "url": "https://www.fciencias.unam.mx/",
       "area": "Applied mathematics",
@@ -50,7 +50,9 @@
       "endDate": "2021-08-01",
       "score": "9.9/10",
       "advisor": "Dr. Sergio I. López Ortega",
-      "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/"
+      "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/",
+      "thesisPDF": "GiralBarajas-ThesisBSc",
+      "thesis": "Modelo epidemiológico probabilista con microdinámicas y tiempo reverso"
     }
   ],
   "work": [
