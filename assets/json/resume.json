@@ -2,30 +2,31 @@
   "basics": {
     "name": "José Giral Barajas",
     "label": "Mathematics PhD Student",
-    "image": "",
     "email": "j.giral-barajas24@imperial.ac.uk",
-    "phone": "",
-    "url": "",
-    "summary": "",
     "location": {
       "address": "Imperial College London",
       "postalCode": "SW7 2AZ",
       "city": "London",
       "countryCode": "UK",
       "region": "South Kensington"
-    }
+    },
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "image": ""
   },
   "education": [
     {
       "institution": "Imperial College London",
       "location": "London, UK",
       "url": "https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/",
-      "area": "Applied mathematics",
-      "studyType": "PhD",
+      "studyType": "Ph.D. Applied mathematics",
       "startDate": "2024-10-01",
       "endDate": "",
-      "score": "",
-      "courses": ""
+      "advisor": "Professor Paul Bressloff",
+      "advisorUrl": "https://bressloff.github.io/index.html",
+      "area": "",
+      "score": ""
     },
     {
       "institution": "National Autonomous University of Mexico (UNAM)",
@@ -36,7 +37,8 @@
       "startDate": "2022-08-01",
       "endDate": "2024-07-01",
       "score": "9.88/10",
-      "courses": ""
+      "advisor": "Dr. Sergio I. López Ortega",
+      "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/"
     },
     {
       "institution": "National Autonomous University of Mexico (UNAM)",
@@ -47,7 +49,8 @@
       "startDate": "2017-08-01",
       "endDate": "2021-08-01",
       "score": "9.9/10",
-      "courses": ""
+      "advisor": "Dr. Sergio I. López Ortega",
+      "advisorUrl": "https://sistemas.fciencias.unam.mx/~silo/"
     }
   ],
   "work": [
