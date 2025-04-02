@@ -13,9 +13,9 @@ nav_order: 1
   <article>
      <ul>
       <li>We have developed a search-and-capture model, in which a source cell randomly searches for a target cell and delivers a burst of a given resource. First-passage times theory can be used to compute the Mean first-passage times (MFPTs) for the searching cell to find a given target cell.</li>
-      <li>To track the accumulation of resources within the target after several deliveries from the search-and-capture process, we resort to classical queueing theory. Assuming sequential consumption implies that the G/M/c queue tjhe appropriate system for studying the accumulation of resources in the target.</li>
-      <li>We studied the existence and behvaiour of steady-state statistics in function of the search process configurations.</li>
-      <li>Current projects include the following: (a) Modeling the accumulation of target cell resources as a G/M/c queue in high-dimension domains. (b) Study the the idle periods under heavy traffic approximations, linked with the configuration of the search process.</li>
+      <li>To track the accumulation of resources within the target after several deliveries from the search-and-capture process, we resort to classical queueing theory. Assuming sequential consumption implies that the G/M/c queue the appropriate system for studying the accumulation of resources in the target.</li>
+      <li>We studied the existence and behaviour of steady-state statistics in function of the search process configurations.</li>
+      <li>Current projects include the following: (a) Modelling the accumulation of target cell resources as a G/M/c queue in high-dimension domains. (b) Study the idle periods under heavy traffic approximations, linked with the configuration of the search process.</li>
     </ul>
     <div class="row mt-3">
       <div class="col-sm mt-3 mt-md-0">
