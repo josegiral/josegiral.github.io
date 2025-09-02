@@ -2,6 +2,10 @@
   url: https://www.sciencedirect.com/journal/journal-of-theoretical-biology
   color: "#DDCC72"
 
+"J. Phys. A.":
+  url: https://iopscience.iop.org/journal/1751-8121
+  color: "#D2E3F5"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#B1342E"
