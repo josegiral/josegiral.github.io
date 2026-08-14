@@ -9,3 +9,7 @@
 "arXiv":
   url: https://arxiv.org/
   color: "#B1342E"
+
+"Phys. Rev. E":
+  url: https://journals.aps.org/pre/
+  color: "#2F6D82"
