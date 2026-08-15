@@ -8,6 +8,32 @@ nav_order: 1
 ---
 
 <div class="post">
+  <h2 class="post-title">Non-conservative search processes as queues</h2>
+  <hr>
+  <article>
+     <ul>
+      <li>We exploit a natural mapping between non-conservative stochastic search and queueing theory to derive the full time-dependent distribution of target arrivals under minimal assumptions on the underlying search process.</li>
+      <li>We find that the steady-state inter-arrival time distribution is exactly exponential, regardless of the details of the search process.</li>
+      <li>We are currently exploring target resource accumulation, where the delivery of resources is counter-balanced by their downstream consumption in this setting.</li>
+    </ul>
+    <div class="row mt-3">
+      <div class="col-sm mt-3 mt-md-0">
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/NonConservativeQueue.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+      </div>
+      <div class="col-sm mt-3 mt-md-0">
+      </div>
+    </div>
+    <div class="caption">
+      Mapping of a non-conservative search process onto a queue.
+    </div>
+  </article>
+</div>
+
+<br>
+
+<div class="post">
   <h2 class="post-title">Search-and-capture models with sequential consumption</h2>
   <hr>
   <article>
