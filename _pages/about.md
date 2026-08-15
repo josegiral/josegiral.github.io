@@ -30,3 +30,5 @@ latest_posts:
 ---
 
 I am a PhD student in Mathematics at [Imperial College London](https://www.imperial.ac.uk/mathematics/), working under the supervision of [Professor Paul C Bressloff](https://bressloff.github.io/index.html). I started the PhD in 2024, having previously completed an MSc in Mathematics and a BSc in Applied Mathematics at [Universidad Nacional Autónoma de México (UNAM)](https://www.fciencias.unam.mx/). My research focuses in stochastic models of cellular transport. I am currently researching resource accumulation in a target cell using search-and-capture processes with stochastic resetting and queuing theory.
+
+I will be at the Workshop on [Advances in Asymptotic Analysis and Numerical Methods for First Passage Time Problems in Biology](https://sites.google.com/view/kylemore2026/home). You can always find me in my office at Imperial's South Kensington campus, or send me an email to j[dot]giral-barajas24[at]imperial[dot]ac[dot]uk!
